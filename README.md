@@ -17,4 +17,3 @@ Each tower has a starting health and can shoot at most N enemies at each time st
 5. Auxiliaries
     * A text file named **_ID.txt_** containing team members’ names, IDs, and emails.
     * Three Sample input files (test cases).
-    * Phase 1 full code
