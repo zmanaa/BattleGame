@@ -273,6 +273,7 @@
     <ClCompile Include="GUI\GUI.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\CIE205Project_Code_S2021\Generic_DS\Stack.h" />
     <ClInclude Include="Battle.h" />
     <ClInclude Include="Castle\Castle.h" />
     <ClInclude Include="CMUgraphicsLib\auxil.h" />

@@ -219,5 +219,8 @@
     <ClInclude Include="Castle\Castle.h">
       <Filter>Castle</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\CIE205Project_Code_S2021\Generic_DS\Stack.h">
+      <Filter>Generic_DS</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
